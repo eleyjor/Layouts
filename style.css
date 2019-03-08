@@ -6,24 +6,23 @@
 }
 
 .layout-1{
-    background-color: red;
+    background-color: #e3e3e3;
 
 }
 
 .layout-2{
-    background-color: yellow;
+    background-color: #e3e3e3;
 
 }
 
 .layout-3{
-    background-color: orange;
+    background-color: #e3e3e3;
 
 }
 
 .layout-1 #topHeader{
-    background-color:yellow;
-    width:45%;
-    height:250%;
+    background-color:red;
+
 }
 
 .layout-1 nav{
@@ -90,7 +89,6 @@
 }
 
 .layout-2 footer{
-    background-color: 
 }
 
 .layout-3 header{
@@ -115,12 +113,11 @@
 
 #pageFooter{
     background-color:green;
-}   
-#float-right{
-    float:right;
-    width:45%;
 }
 
-#float-left{
-    float:left;
-}
+
+
+
+
+
+
