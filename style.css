@@ -6,7 +6,7 @@
 }
 
 .layout-1{
-    background-color: red; yellow;
+    background-color: red;
 
 }
 
@@ -21,7 +21,7 @@
 }
 
 .layout-1 #topHeader{
-    background-color:yellow
+    background-color:yellow;
     width:45%;
     height:250%;
 }
