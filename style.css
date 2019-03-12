@@ -48,12 +48,12 @@
 }
 .layout-1 aside{
     background-color:white;
-    border: 6px solid purple;
-    width: 60%;
-    height:40px;
+    border: 16px solid purple;
+    width: 15%;
+    height:200px;
     padding:31px;
     margin-right:4px;
-    float:right;
+    float:right
 
 
 
@@ -62,7 +62,7 @@
 
 .layout-1 aside a{
     background-color:white;
-    max-height: 200px
+    max-height: 200px;
 }
 
 .layout-1 footer{
@@ -70,10 +70,13 @@
 
 #topHeader2{
     background-color:red;
-    height:20px
+    height:20px;
 }
 .layout-2 nav{
     background-color:blue;
+    border:6px solid blue;
+    width:30%
+
 
 }
 
@@ -130,7 +133,6 @@
 #pageFooter{
     background-color:green
 }
-
 
 
 
