@@ -23,7 +23,8 @@
 .layout-1 #topHeader{
     background-color:red;
     height:50px;
-    width:120%
+    width:120%;
+    float:left;
 
 }
 
@@ -39,7 +40,8 @@
 .layout-1 #sectionHeader{
     background-color:yellow;
     height:40px;
-    width:150%
+    width:150%;
+    float:left;
 
  }
 
@@ -47,13 +49,10 @@
     background-color:orange;
 }
 .layout-1 aside{
-    background-color:white;
-    border: 16px solid purple;
-    width: 15%;
-    height:200px;
-    padding:31px;
-    margin-right:4px;
-    float:right
+    background-color:purple;
+    border: 5px outset purple;
+
+    
 
 
 
