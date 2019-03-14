@@ -87,37 +87,29 @@
 
 .layout-2 nav a{
     background-color:white;
-    text-align: center;
-    line-height: 12px;
-    word-spacing: 50px;
-    float: none;
+ 
     
 }
 
 #content{
     background-color:green;
     height:20px;
-    text-align: center;
 }
 
 .article2{
     background-color:yellow;
     height:20px;
-    text-align: center;
-    
 }
 
 .aside-content{
     background-color:purple;
     height:20px;
     float: right;
-    text-align: center;
-
 }
 
 .aside-info{
     background-color:aqua;
-    margin: 4%;
+    width:200%
     
 }
 
@@ -127,22 +119,17 @@
 
 .layout-2 footer{
     float: none;
-    text-align: center;
     
 }
 
 .layout-3 header{
     background-color:red;
     float: none;
-    text-align: center;
-    padding: 12px;
-    margin: 2px;
 
 }
 
 #sectionHeader3{
     background-color:blue;
-    text-align: center;
     width: 50%;
     
 }
@@ -165,7 +152,7 @@
 
 .layout-3 aside{
     background-color:purple;
-    float: right;
+    width:200%
 
 }
 
