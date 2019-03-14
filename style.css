@@ -22,84 +22,115 @@
 
 .layout-1 #topHeader{
     background-color:red;
-    height:50px;
-    width:120%;
-    float:left;
+    text-align: center;
+    float: none;
 
 }
 
 .layout-1 nav{
     background-color:blue;
+    text-align: center;
+    float: none;
 
 }
 
 .layout-1 section{
-    background-color:green;
+    background-color: purple;
+    float: none;
+    text-align: center;
+    
 }
 
 .layout-1 #sectionHeader{
     background-color:yellow;
-    height:40px;
-    width:150%;
-    float:left;
-
+    float: left;
+    text-align: left;
+    width: 75%;
+    
  }
 
 .layout-1 article{
     background-color:orange;
+    text-align: left;
+    float: none;
+    width: 75%;
 }
 .layout-1 aside{
     background-color:purple;
-    border: 5px outset purple;
-
+    float: right;
+    width: 25%;
+    text-align: center;
+    text-align: center;
     
-
-
-
     
 }
 
 .layout-1 aside a{
     background-color:white;
-    max-height: 200px;
+    text-align: center;
+     height: 12%;
+    
+
+
 }
 
 .layout-1 footer{
+    text-align: center;
+    float: none;
+    width: 100%;
 }
 
 #topHeader2{
     background-color:red;
-    height:20px;
+    text-align: center;
+    float: none;
+    height: 10%;
+    padding: 12pxx;
+
 }
 .layout-2 nav{
     background-color:blue;
-    border:6px solid blue;
-    width:30%
-
+    float: left;
+    text-align: center;
+    width: 25%;
+    
 
 }
 
 .layout-2 nav a{
     background-color:white;
+    text-align: center;
+    line-height: 12px;
+    word-spacing: 50px;
+    float: none;
+    
 }
 
 #content{
     background-color:green;
     height:20px;
+    text-align: center;
 }
 
 .article2{
     background-color:yellow;
+    height:20px;
+    text-align: center;
+    
 }
 
 .aside-content{
     background-color:purple;
     height:20px;
+    float: right;
+    text-align: center;
 
 }
 
 .aside-info{
     background-color:aqua;
+    margin: 4%;
+    
 }
 
 .layout-2 img{
@@ -107,31 +138,55 @@
 }
 
 .layout-2 footer{
+    float: none;
+    text-align: center;
+    
 }
 
 .layout-3 header{
     background-color:red;
+    float: none;
+    text-align: center;
+    padding: 12px;
+    margin: 2px;
+
 }
 
 #sectionHeader3{
     background-color:blue;
+    text-align: center;
+    width: 50%;
+    
 }
 
 .layout-3 nav{
     background-color:yellow;
+    float: left;
+    width: 15%;
+
+
 }
 
 .layout-3 section{
     background-color:orange;
+    float: none;
+    text-align: center;
+    
+
 }
 
 .layout-3 aside{
     background-color:purple;
+    float: right;
+
 }
 
 #pageFooter{
-    background-color:green
-}
+    background-color:green;
+    float: none;
+    text-align: center;
+
+
 
 
 
